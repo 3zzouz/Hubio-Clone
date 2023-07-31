@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hubio-Clone/static/css/main.c7a69068.css",
-    "main.js": "/Hubio-Clone/static/js/main.5889355d.js",
+    "main.js": "/Hubio-Clone/static/js/main.cc63fbb3.js",
     "static/media/Math.2a9c3ce8 (1) (3).webp": "/Hubio-Clone/static/media/Math.2a9c3ce8 (1) (3).ae81ddb7d804db73995e.webp",
     "static/media/revicons.eot": "/Hubio-Clone/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Hubio-Clone/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -9,10 +9,10 @@
     "index.html": "/Hubio-Clone/index.html",
     "static/media/warning.svg": "/Hubio-Clone/static/media/warning.778dae2bebb85cf24060.svg",
     "main.c7a69068.css.map": "/Hubio-Clone/static/css/main.c7a69068.css.map",
-    "main.5889355d.js.map": "/Hubio-Clone/static/js/main.5889355d.js.map"
+    "main.cc63fbb3.js.map": "/Hubio-Clone/static/js/main.cc63fbb3.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a69068.css",
-    "static/js/main.5889355d.js"
+    "static/js/main.cc63fbb3.js"
   ]
 }
