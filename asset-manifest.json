@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Hubio-Clone/static/css/main.c7a69068.css",
-    "main.js": "/Hubio-Clone/static/js/main.a2749877.js",
-    "static/media/Math.2a9c3ce8 (1) (3).webp": "/Hubio-Clone/static/media/Math.2a9c3ce8 (1) (3).ae81ddb7d804db73995e.webp",
-    "static/media/revicons.eot": "/Hubio-Clone/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/Hubio-Clone/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/Hubio-Clone/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/Hubio-Clone/index.html",
-    "static/media/warning.svg": "/Hubio-Clone/static/media/warning.778dae2bebb85cf24060.svg",
-    "main.c7a69068.css.map": "/Hubio-Clone/static/css/main.c7a69068.css.map",
-    "main.a2749877.js.map": "/Hubio-Clone/static/js/main.a2749877.js.map"
+    "main.css": "/Hubio/static/css/main.d921b1f1.css",
+    "main.js": "/Hubio/static/js/main.e45e5b18.js",
+    "static/media/Math.2a9c3ce8 (1) (3).webp": "/Hubio/static/media/Math.2a9c3ce8 (1) (3).ae81ddb7d804db73995e.webp",
+    "static/media/revicons.eot": "/Hubio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Hubio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Hubio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Hubio/index.html",
+    "static/media/warning.svg": "/Hubio/static/media/warning.778dae2bebb85cf24060.svg",
+    "main.d921b1f1.css.map": "/Hubio/static/css/main.d921b1f1.css.map",
+    "main.e45e5b18.js.map": "/Hubio/static/js/main.e45e5b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7a69068.css",
-    "static/js/main.a2749877.js"
+    "static/css/main.d921b1f1.css",
+    "static/js/main.e45e5b18.js"
   ]
 }
